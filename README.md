@@ -4,6 +4,8 @@
 Mini Design Canvas is a full-stack 2D vector canvas editor built for creating, manipulating, persisting, and exporting graphic elements. It provides an interactive drawing board with shape transformations (move, resize, rotate), real-time property editing, layer management, undo/redo history, debounced autosave, and user-isolated cloud storage.
 
 Live Url: https://mini-design-canvas-frontendd.onrender.com/
+One small note about the live demo: it is deployed on Render’s free tier, so the service may take a few seconds to wake up when you first open the link. Please wait around 10 seconds and refresh/open it again if needed.
+
 ## Features
 - **Canvas Shapes**: Insert Rectangles, Circles, and Text elements.
 - **Direct Manipulation**: Select shapes with a Konva Transformer for dragging, corner/side resizing, and rotating.
